@@ -1,0 +1,4 @@
+city,description,temperature_farenheit,feels_like_farenheit,minimun_temp_farenheit,maximum_temp_farenheit,pressure,humidity,wind_speed,time_of_record,sunrise_local_time,sunset_local_time,state,census_2020,land_area_sq_mile_2020
+Houston,overcast clouds,47.102,40.658,46.058,50.0,1026,81,7.2,2024-12-07 12:41:47,2024-12-07 07:04:23,2024-12-07 17:22:17,Texas,2304580,640.4
+Houston,overcast clouds,46.958,40.478,45.05,50.0,1026,81,7.2,2024-12-07 12:31:03,2024-12-07 07:04:23,2024-12-07 17:22:17,Texas,2304580,640.4
+Houston,overcast clouds,46.958,40.478,45.05,50.0,1026,81,7.2,2024-12-07 12:31:03,2024-12-07 07:04:23,2024-12-07 17:22:17,Texas,2304580,640.4
